@@ -196,7 +196,7 @@ export default function Home() {
                 </div>
               </div>
               
-              <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl font-bold leading-tight text-white drop-shadow-2xl mb-3 sm:mb-4">
+              <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl xl:text-6xl 2xl:text-7xl font-bold leading-[1.15] text-white drop-shadow-2xl mb-3 sm:mb-4">
                 KFZ Gutachter Timur Abali
               </h1>
               
